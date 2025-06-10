@@ -38,6 +38,7 @@ Los objetivos principales son:
 
 ```
 ├── Trabajo-BusquedayOrdenamiento.py  # Script principal con algoritmos de búsqueda y ordenamiento
+├── Trabajo Integrador Programacion I.pdf # Pdf Explicativo del TP
 └── README.md                       # Este archivo
 ```
 
