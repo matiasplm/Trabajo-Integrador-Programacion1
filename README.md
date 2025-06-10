@@ -30,8 +30,9 @@ Los objetivos principales son:
 5. [Resultados y Rendimiento](#resultados-y-rendimiento)
 6. [Metodología](#metodología)
 7. [Mejoras y Extensiones Futuras](#mejoras-y-extensiones-futuras)
-8. [Autores](#autores)
-9. [Licencia](#licencia)
+8. [Video Explicativo](#Video)
+9. [Autores](#autores)
+10. [Licencia](#licencia)
 
 ## Estructura del Proyecto
 
@@ -99,6 +100,11 @@ python Trabajo-BusquedayOrdenamiento.py
 * Cargar datos desde archivos o bases de datos.
 * Crear interface gráfica con Tkinter o web (Flask/Django).
 * Añadir persistencia de notas en un archivo CSV o JSON.
+
+## Video
+```
+https://youtu.be/27B5rEiD5MY
+```
 
 ## Autores
 
