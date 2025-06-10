@@ -1,7 +1,7 @@
 # Funcion que genera una lista de nombres únicos de alumnos y la desordena aleatoriamente
 def generar_lista_alumnos(cantidad):
     import random
-    lista = [f"Alumno{i:03}" for i in range(1, cantidad + 1)]
+    lista = [f"alumno{i:03}" for i in range(1, cantidad + 1)]
     random.shuffle(lista)
     return lista
 
@@ -29,7 +29,7 @@ def busqueda_binaria(lista, objetivo):
 
 import random
 random.seed(42)  # Fijamos la semilla para obtener siempre la misma lista desordenada
-alumnos = generar_lista_alumnos(500)  # Crear y desordenar 500 nombres de alumnos
+alumnos = generar_lista_alumnos(500)  # Crear y desordenar 100 nombres de alumnos
 alumnos = ordenar_lista(alumnos)  # Ordenar alfabéticamente la lista de alumnos
 notas = {}  # Diccionario para registrar las notas asignadas
 
