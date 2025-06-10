@@ -35,7 +35,7 @@ notas = {}  # Diccionario para registrar las notas asignadas
 
 
 # Solicita nombre del alumno
-nombre = input("Ingrese el nombre del alumno (ej. Alumno001): ")  
+nombre = input("Ingrese el nombre del alumno (ej. alumno001): ")  
 valido = False  # Controla que se ingrese una nota válida
 while not valido:
     entrada = input("Ingrese la nota del alumno (entre 0 y 10): ")
